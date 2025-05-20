@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:2014508
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014508.ts
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014509.ts
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014510.ts
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014511.ts
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014512.ts
+#EXTINF:6.00000,
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh_2014513.ts
