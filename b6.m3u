@@ -1,0 +1,21 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="BeIN Sport MAX 1 4k" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 1 4k
+http://zeintv.xyz:8080/A12345678/A12345678/272198.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 2 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 2 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272199.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 3 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 3 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272200.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 4 4K" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 4 4K
+http://zeintv.xyz:8080/A12345678/A12345678/272201.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 1 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 1 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272205.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 2 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 2 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272204.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 3 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 3 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272203.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport MAX 4 FHD" group-title="BEIN MAX ⚽ بطولة امم أوربا",BeIN Sport MAX 4 FHD
+http://zeintv.xyz:8080/A12345678/A12345678/272202.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Max 1 SD" group-title="BEIN MAX ⚽ بطولة امم أوربا",Bein Sports Max 1 SD
+http://zeintv.xyz:8080/A12345678/A12345678/272211.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Max 2 SD" group-title="BEIN MAX ⚽ بطولة امم أوربا",Bein Sports Max 2 SD
+http://zeintv.xyz:8080/A12345678/A12345678/272210.m3u8
